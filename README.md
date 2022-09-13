@@ -43,7 +43,7 @@ JQuery syntax.
  
  ## Usage
  ![Screenshot of live site](https://github.com/nmbeilke/Homework-Day-Scheduler/blob/main/Screen%20Shot%202022-02-19%20at%207.51.15%20PM.png?raw=true)
-Try it out: https://nmbeilke.github.io/Homework-Day-Scheduler/
+Try it out: https://nmbeilke.github.io/Day-Scheduler/
 
 ## Credits  
 Assignment from The Coding Boot Camp at UC San Diego Extension in Partnership With Trilogy Education Services, LLC, Full Stack Part-Time Flex, September 2021 Cohort
